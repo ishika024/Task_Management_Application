@@ -49,10 +49,10 @@ die( ) function terminates the execution if there an error while connecting to t
 **->mysqli_connect( )** function is used to create the connection. It takes 4 parameter – hostname, username, password and database name, in the same order as mentioned.
 
 **->die( )** function terminates the execution if there an error while connecting to the database.
-<pre><?php
-$db = mysqli_connect("localhost", "root", "", "todo")
-    or
-    die("Connection failed: " . mysqli_connect_error());
-?></pre>
+
 # Usage
 Once the development server is running, you can access To-Do by visiting **http://localhost/** in your web browser.
+
+# Output
+![image](https://github.com/ishika024/Task_Management_Application/assets/86250466/e51bb73a-cf38-4c38-96f1-7b4a5c8a48d5)
+
