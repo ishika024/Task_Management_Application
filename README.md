@@ -54,5 +54,18 @@ die( ) function terminates the execution if there an error while connecting to t
 Once the development server is running, you can access To-Do by visiting **http://localhost/** in your web browser.
 
 # Output
+
+# Add Page
 ![image](https://github.com/ishika024/Task_Management_Application/assets/86250466/e51bb73a-cf38-4c38-96f1-7b4a5c8a48d5)
+
+# Update Page
+![image](https://github.com/ishika024/Task_Management_Application/assets/86250466/c815b0ce-6938-43ce-ba9d-f7dfead22102)
+
+# Updated Page
+![image](https://github.com/ishika024/Task_Management_Application/assets/86250466/0e2c5d57-36a6-4d1b-8771-2426dca83937)
+
+# After Deletion
+![image](https://github.com/ishika024/Task_Management_Application/assets/86250466/7d4a5535-a255-4725-b896-3d2aed8d4d05)
+
+
 
